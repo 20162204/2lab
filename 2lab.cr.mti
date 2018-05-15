@@ -1,0 +1,49 @@
+{C:/Documents and Settings/Studentas/My Documents/Viktoras Jakovlevas EIF-16-1/2lab/process2.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Documents and Settings/Studentas/My Documents/Viktoras Jakovlevas EIF-16-1/2lab/process2.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity process_tb2
+-- Compiling architecture behave of process_tb2
+
+} {} {}} {C:/Documents and Settings/Studentas/My Documents/Viktoras Jakovlevas EIF-16-1/2lab/not4.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:\Documents and Settings\Studentas\My Documents\Viktoras Jakovlevas EIF-16-1\2lab\not4.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity not4
+-- Compiling architecture rtl of not4
+
+} {} {}} {C:/Documents and Settings/Studentas/My Documents/Viktoras Jakovlevas EIF-16-1/2lab/and4.vhd} {0 {vcom -work work -2002 -explicit -stats=none {C:\Documents and Settings\Studentas\My Documents\Viktoras Jakovlevas EIF-16-1\2lab\and4.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity and4
+-- Compiling architecture rtl of and4
+** Error: C:\Documents and Settings\Studentas\My Documents\Viktoras Jakovlevas EIF-16-1\2lab\and4.vhd(15): near "<=": (vcom-1576) expecting ':'.
+
+** Error: C:\Documents and Settings\Studentas\My Documents\Viktoras Jakovlevas EIF-16-1\2lab\and4.vhd(16): near "<=": (vcom-1576) expecting ':'.
+
+** Error: C:\Documents and Settings\Studentas\My Documents\Viktoras Jakovlevas EIF-16-1\2lab\and4.vhd(19): Illegal target for signal assignment.
+** Error: C:\Documents and Settings\Studentas\My Documents\Viktoras Jakovlevas EIF-16-1\2lab\and4.vhd(19): (vcom-1136) Unknown identifier "and1".
+
+** Error: C:\Documents and Settings\Studentas\My Documents\Viktoras Jakovlevas EIF-16-1\2lab\and4.vhd(20): Illegal target for signal assignment.
+** Error: C:\Documents and Settings\Studentas\My Documents\Viktoras Jakovlevas EIF-16-1\2lab\and4.vhd(20): (vcom-1136) Unknown identifier "and2".
+
+** Error: C:\Documents and Settings\Studentas\My Documents\Viktoras Jakovlevas EIF-16-1\2lab\and4.vhd(21): (vcom-1136) Unknown identifier "and1".
+
+** Error: C:\Documents and Settings\Studentas\My Documents\Viktoras Jakovlevas EIF-16-1\2lab\and4.vhd(21): (vcom-1136) Unknown identifier "and2".
+
+** Error: C:\Documents and Settings\Studentas\My Documents\Viktoras Jakovlevas EIF-16-1\2lab\and4.vhd(21): Type error resolving infix expression "and" as type ieee.std_logic_1164.STD_LOGIC.
+** Error: C:\Documents and Settings\Studentas\My Documents\Viktoras Jakovlevas EIF-16-1\2lab\and4.vhd(22): VHDL Compiler exiting
+
+} {8.0 9.0 10.0 11.0 12.0 14.0 15.0 17.0 18.0 19.0 20.0 21.0 22.0 24.0} {}} {C:/Documents and Settings/Studentas/My Documents/Viktoras Jakovlevas EIF-16-1/2lab/process.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Documents and Settings/Studentas/My Documents/Viktoras Jakovlevas EIF-16-1/2lab/process.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity process_tb
+-- Compiling architecture behave of process_tb
+
+} {} {}}
