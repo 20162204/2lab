@@ -9,7 +9,7 @@ entity or4 is
     i_bit4    : in  std_logic;
     o_bit : out std_logic
     );
-end and4;
+end or4;
  
 architecture rtl of or4 is
 begin
