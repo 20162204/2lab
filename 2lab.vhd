@@ -1,7 +1,7 @@
 library ieee;
 use ieee.std_logic_1164.all;
  
-entity and4 is
+entity or4 is
   port (
     i_bit1    : in  std_logic;
     i_bit2    : in  std_logic;
@@ -11,7 +11,7 @@ entity and4 is
     );
 end and4;
  
-architecture rtl of and4 is
+architecture rtl of or4 is
 begin
-  o_bit <= (i_bit1 and i_bit2) and (i_bit3 and i_bit4);
+  o_bit <= (i_bit1 or i_bit2) or (i_bit3 or i_bit4);
 end rtl;
